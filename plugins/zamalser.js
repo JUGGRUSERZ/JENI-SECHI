@@ -1,4 +1,4 @@
-/* COPYRIGHT AMALSER
+/* COPYRIGHT JUGGRUSER
 HEHE
 */
 const fs = require('fs')
