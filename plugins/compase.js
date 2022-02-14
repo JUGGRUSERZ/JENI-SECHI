@@ -6,7 +6,7 @@ const got = require('got');
 
 const Config = require('../config');
 
-const Catbot = require('../catbot');
+const Jenisechi = require('../jenisechi');
 
 const LOAD_ING = "*wait... Trying To Find*"
 
