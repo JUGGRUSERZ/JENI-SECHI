@@ -3,7 +3,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const GM = "it sends good morning message"
 const GN = "it sends good night message"
 const Config = require('../config');
-const Catbot = require('../catbot');
+const Jenisechi = require('../jenisechi');
 
 
 
