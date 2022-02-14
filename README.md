@@ -8,7 +8,7 @@
 ```
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/2y0Kqea.jpg" width="200" height="400"/>
+  <img border-radius: 15px src="https://i.imgur.com/2y0Kqea.jpg" width="300" height="500"/>
   <p align="center">
 <a href="#"><img title="CATBOT" src="https://img.shields.io/badge/JUGGRUSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
