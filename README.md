@@ -109,7 +109,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer one and only 
   <div align="center">
     
-  [![JUGGRUSER](https://github.com/JUGGRUSERZ?size=100)](https://github.com/JUGGRUSERZ) |   
+  [![JUGGRUSER](https://github.com/JUGGRUSERZ?size=800)](https://github.com/JUGGRUSERZ) |   
 ----|
 [JUGGRUSER](https://github.com/JUGGRUSERZ)  | 
 Base, Bug Fixes, Modules | Modifiying  as   public
