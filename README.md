@@ -10,7 +10,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/2y0Kqea.jpg" width="350" height="500"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/JUGGRUSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JENI SECHI" src="https://img.shields.io/badge/JUGGRUSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/JUGGRUSERZ"><img title="Author" src="https://img.shields.io/badge/Author-JUGGRUSER/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/JUGGRUSER">JUGGRUSER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/JUGGRUSERZ/JENI-SECHI ">
+  <a href=https://github.com/JUGGRUSERZ/JENI-SECHI ">
     <img src="https://img.shields.io/github/repo-size/JUGGRUSERZ/JENI-SECHI?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/JUGGRUSERZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
